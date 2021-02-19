@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Drawabless</string>
+    <string name="playback_speed">Playback Speed x%</string>
+</resources>
